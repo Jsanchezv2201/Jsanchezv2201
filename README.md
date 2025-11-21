@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Estudiante+Ingeniería+Telemática;Desarrollador+Full-Stack;Entusiasta+de+Redes+y+Seguridad;Apasionado+por+la+Robótica" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ingeniería+Telemática;Desarrollador+Full-Stack;Redes+y+Seguridad" />
 </div>
 
 ###
@@ -22,6 +22,7 @@
   
 ### 💻 Lenguajes de Programación
 <img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,bash" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/RISC-V-logo.svg" height="50" alt="RISC-V" style="background:white; padding:5px; border-radius:5px;" />
   
 ### 🤖 Robótica & IA
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="50" />
@@ -30,7 +31,7 @@
   
 ### 🌐 Redes & Telecomunicaciones
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Wireshark_Logo.svg" height="50" style="filter: invert(1);" />
+<img src="https://static-00.iconduck.com/assets.00/wireshark-icon-2048x2048-3etlf0x1.png" height="50" style="filter: invert(1);" />
   
 ### 🔧 Herramientas Universitarias
 <img src="https://skillicons.dev/icons?i=matlab,git,vscode" height="50" />
@@ -77,15 +78,8 @@
 - 🌐 **Protocolos de Red** - OSPF, BGP, TCP/IP
 - 💻 **Desarrollo Backend** con Rust, Go y Python
 - 🔧 **Automatización** con scripts en Bash
+- 🖥️ **Ensamblador** RISC-V y programación de bajo nivel
 
-
-## 🐍 Mi Gráfico de Contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JuanDev/JuanDev/output/snake.svg" alt="Snake animation" />
-</div>
-
-*Para que la animación de la serpiente funcione, necesitas configurar GitHub Actions en tu repositorio!*
 
 ---
 
