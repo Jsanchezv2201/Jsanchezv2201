@@ -22,7 +22,6 @@
   
 ### 💻 Lenguajes de Programación
 <img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,bash" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/RISC-V-logo.svg" height="50" alt="RISC-V" style="background:white; padding:5px; border-radius:5px;" />
   
 ### 🤖 Robótica & IA
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="50" />
@@ -31,15 +30,11 @@
   
 ### 🌐 Redes & Telecomunicaciones
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
-<img src="https://static-00.iconduck.com/assets.00/wireshark-icon-2048x2048-3etlf0x1.png" height="50" style="filter: invert(1);" />
+
   
 ### 🔧 Herramientas Universitarias
 <img src="https://skillicons.dev/icons?i=matlab,git,vscode" height="50" />
 
-### 🎓 En Aprendizaje
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,aws,docker" height="50" />
-
-</div>
 
 ###
 
