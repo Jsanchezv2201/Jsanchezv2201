@@ -76,5 +76,7 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/Jsanchezv2201/Jsanchezv2201/output/github-snake.svg)
+
 
 *Estudiante de Ingeniería Telemática - Universidad Rey Juan Carlos, Madrid*  
