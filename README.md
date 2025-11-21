@@ -1,7 +1,5 @@
 # ¡Hola! Soy Juan 👋
 
-<h2 align="center">Estudiante de Ingeniería Telemática & Apasionado por la Tecnología</h2>
-
 ###
 
 <div align="center">
