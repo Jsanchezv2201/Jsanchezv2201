@@ -47,17 +47,11 @@
 ## 📫 Conécta Conmigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="www.linkedin.com/in/juan-sánchez-vinuesa-b4833936a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="https://twitter.com/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
-  </a>
-  <a href="mailto:tu.email@universidad.es">
+  <a href="mailto:sanchezvinuesajuan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-  <a href="https://gitlab.com/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="30"/>
   </a>
 </div>
 
