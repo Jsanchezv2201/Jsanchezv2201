@@ -39,7 +39,7 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDev&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jsanchezv2201&theme=radical&hide_border=true" />
 </div>
 
 ###
@@ -76,7 +76,15 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Jsanchezv2201/Jsanchezv2201/output/github-snake.svg)
+<hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br/>
+  <img src="https://raw.githubusercontent.com/Jsanchezv2201/Jsanchezv2201/output/snake.svg" alt="Snake animation" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 *Estudiante de Ingeniería Telemática - Universidad Rey Juan Carlos, Madrid*  
