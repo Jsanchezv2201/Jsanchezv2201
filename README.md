@@ -38,7 +38,6 @@
   
 ### 🔧 Herramientas Universitarias
 <img src="https://skillicons.dev/icons?i=matlab,git,vscode,pycharm" height="50" />
-<img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/ltspice.png?itok=MVgB4Gip" height="50" alt="LTspice" style="background:white; padding:5px; border-radius:5px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RISC-V-logo-square.svg/1200px-RISC-V-logo-square.svg.png" height="50" alt="RISC-V" style="background:white; padding:5px; border-radius:5px;" />
 
 ###
@@ -80,7 +79,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Mis Contribuciones </h2>
   <br/>
   <img src="https://raw.githubusercontent.com/Jsanchezv2201/Jsanchezv2201/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
