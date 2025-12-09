@@ -20,6 +20,7 @@
   
 ### 💻 Lenguajes de Programación
 <img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,bash" height="50" />
+<img src="https://cryptologos.cc/logos/pascal-pasc-logo.png" height="50" />
 <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdA_2Vi350-blMARDU4bOdXkXaanfyYmPVg&s" height="50" />
 
 ### 🤖 Robótica & IA
