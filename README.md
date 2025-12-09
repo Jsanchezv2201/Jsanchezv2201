@@ -1,3 +1,5 @@
+<div align="center">
+
 # ¡Hola! Soy Juan 👋
 
 ###
@@ -13,6 +15,7 @@
 </div>
 
 ###
+<div align="center">
 
 ## 🛠️ Mi Stack Tecnológico
 
@@ -20,6 +23,7 @@
   
 ### 💻 Lenguajes de Programación
 <img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,bash" height="50" />
+<img src="https://skillicons.dev/icons?i=matlab" height="50" />
 <img src="https://cryptologos.cc/logos/pascal-pasc-logo.png" height="50" />
 <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdA_2Vi350-blMARDU4bOdXkXaanfyYmPVg&s" height="50" />
 
@@ -34,7 +38,7 @@
   
 ### 🌐 Redes & Telecomunicaciones
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
-<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="50" alt="Wireshark" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/2048px-Wireshark_icon.svg.png" height="50" alt="Wireshark" />
 
   
 ### 🔧 Herramientas Universitarias
@@ -66,11 +70,10 @@
 
 ## 🎯 Conocimientos
 
-- 🎓 **Estudiante de Ingeniería Telemática** en la Universidad Rey Juan Carlos, Madrid
+- 🧠 **Machine Learning** - CNN, Deep Learning, SVM... en Jupyter Notebook
+- 🌐 **Protocolos de Red** - OSPF, BGP, TCP/IP... en WireShark y NetGui
+- 💻 **Desarrollo Backend** con Rust, Go, C, C++, Python, Pascal
 - 🤖 **Proyectos de Robótica** con ROS y C++
-- 🧠 **Machine Learning** - CNN, Deep Learning, SVM en Jupyter Notebook
-- 🌐 **Protocolos de Red** - OSPF, BGP, TCP/IP
-- 💻 **Desarrollo Backend** con Rust, Go y Python
 - 🔧 **Automatización** con scripts en Bash
 - 🖥️ **Ensamblador** RISC-V y programación de bajo nivel
 
