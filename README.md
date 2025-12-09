@@ -16,7 +16,8 @@
 
 ###
 <div align="center">
-
+  
+  
 ## 🛠️ Mi Stack Tecnológico
 
 <div align="center">
@@ -47,11 +48,13 @@
 
 ###
 
-## 📊 Estadísticas de GitHub
+---
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jsanchezv2201&theme=radical&hide_border=true" />
 </div>
+
+---
 
 ###
 
@@ -70,9 +73,9 @@
 
 ## 🎯 Conocimientos
 
-- 🧠 **Machine Learning** - CNN, Deep Learning, SVM... en Jupyter Notebook
 - 🌐 **Protocolos de Red** - OSPF, BGP, TCP/IP... en WireShark y NetGui
 - 💻 **Desarrollo Backend** con Rust, Go, C, C++, Python, Pascal
+- 🧠 **Machine Learning** - CNN, Deep Learning, SVM... en Jupyter Notebook
 - 🤖 **Proyectos de Robótica** con ROS y C++
 - 🔧 **Automatización** con scripts en Bash
 - 🖥️ **Ensamblador** RISC-V y programación de bajo nivel
@@ -80,11 +83,9 @@
 
 ---
 
-<hr/>
 
 <div align="center">
   <h2>🐍 Mis Contribuciones </h2>
-  <br/>
   <img src="https://raw.githubusercontent.com/Jsanchezv2201/Jsanchezv2201/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
