@@ -50,12 +50,6 @@
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jsanchezv2201&theme=radical&hide_border=true" />
-</div>
-
----
-
 ###
 
 ## 📫 Conécta Conmigo
