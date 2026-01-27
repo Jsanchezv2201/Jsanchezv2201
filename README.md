@@ -18,7 +18,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![BASH](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-105BD8?style=for-the-badge&logo=delphi&logoColor=white)
@@ -35,6 +35,13 @@
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![TurtleBot](https://img.shields.io/badge/TurtleBot-333333?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-orange?style=for-the-badge&logo=gazebo&logoColor=white)
+
+### 🛠️ Entornos & Sistemas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC_V-504DFF?style=for-the-badge&logo=riscv&logoColor=white)
 
 ### 🌐 Protocolos de Red
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005A9C?style=for-the-badge)
@@ -57,13 +64,6 @@
 ### 🔌 Electrónica & Simulación
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-9C2727?style=for-the-badge&logo=analogdevices&logoColor=white)
-
-### 🛠️ Entornos & Sistemas
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC_V-504DFF?style=for-the-badge&logo=riscv&logoColor=white)
 
 ---
 
