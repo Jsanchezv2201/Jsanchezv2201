@@ -78,13 +78,7 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <h2>🐍 Mis Contribuciones </h2>
-  <img src="https://raw.githubusercontent.com/Jsanchezv2201/Jsanchezv2201/output/snake.svg" alt="Snake animation" />
-  <br/><br/>
-</div>         
+<br/>        
 
 <hr/>
 
